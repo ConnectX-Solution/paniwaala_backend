@@ -1,0 +1,11 @@
+{
+  "name": "paniwaala_backend",
+  "version": "1.0.0",
+  "description": "Backend of paniwaala.com website using node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Ejaz",
+  "license": "ISC"
+}
